@@ -410,7 +410,7 @@ body {
   padding-bottom: 16px;
   padding-left: 35px;
   list-style-type: none;
-  background: url(./img/Phone-1.svg) no-repeat;
+  background: url(../img/Phone-1.svg) no-repeat;
   line-height: 26px;
   letter-spacing: 0.04em;
   color: #1F3F68;
@@ -420,7 +420,7 @@ body {
 .li__2 {
   list-style-type: none;
   padding-left: 35px;
-  background: url(./img/Phone-1.svg) no-repeat;
+  background: url(../img/Phone-1.svg) no-repeat;
   line-height: 26px;
   letter-spacing: 0.04em;
   color: #1F3F68;
@@ -431,7 +431,7 @@ body {
   padding-bottom: 16px;
   padding-left: 35px;
   list-style-type: none;
-  background: url(./img/website.svg) no-repeat;
+  background: url(../img/website.svg) no-repeat;
   letter-spacing: 0.05em;
   color: #1F3F68;
   opacity: 0.6;
@@ -440,7 +440,7 @@ body {
 .li__mail {
   padding-left: 35px;
   list-style-type: none;
-  background-image: url(img/e-mail.svg);
+  background-image: url(../img/e-mail.svg);
   background-repeat: no-repeat;
   letter-spacing: 0.05em;
   color: #1F3F68;
